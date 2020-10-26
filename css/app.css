@@ -1,0 +1,93 @@
+body{
+	background: #DADADA;
+}
+
+
+.grid-container{
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: 1.0rem;
+	padding-bottom: 1.0rem;
+}
+
+header{
+	background-color: #012034;
+}
+
+.logo{
+	size: 10pt;
+	width: 70%;
+	background-color: #FFFFFF;
+}
+.rocketship{
+	padding-left: 6rem;
+}
+
+
+h1{
+font-family: sofia-pro, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 25pt;
+text-align: center;
+padding-top: 1rem;
+color: #FFFFFF;
+	background-color: #012034;
+}
+
+ul{
+font-family: sofia-pro, sans-serif;
+font-weight: 100;
+font-style: normal;
+font-size: 12pt;
+text-align: center;
+color: #011178;
+background-color: #012034;}
+
+p{
+	color:#FFFFFF;
+	background-color:#82BADD; 
+	font-size: 15pt;
+	text-align: center;
+	font-family: sofia-pro, sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.imgallery{
+	background-color: #012034;
+	border-color: #012034;
+}
+
+h2{
+font-family: sofia-pro, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 25pt;
+text-align: center;
+padding-top: 1rem;
+color: #FFFFFF;
+	background-color: #012034;}
+
+	h3{
+font-family: sofia-pro, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 25pt;
+text-align: center;
+padding-top: 1rem;
+color: #FFFFFF;
+	background-color: #012034;}
+
+.nav{
+	background-color:#FFFFFF;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	text-align: center;
+}
+
+.First{
+	background-color:#012034;
+	margin-bottom: 3rem;
+	padding-top: 1rem; 
+}
